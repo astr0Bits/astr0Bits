@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ss
+- 👋 Hi, I’m @astr0Bits
 - 👀 I’m interested in Python, Java, Web Design, and Data analysis
 - 🌱 I’m currently a student at ADU Abu Dhabi University, studying information technology concentration in cybersecurity.
 - 💞️ I’m looking to collaborate on a small project related to data analysis where  I have to use Python and build websites for small businesses. 
